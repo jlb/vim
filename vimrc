@@ -6,6 +6,7 @@ se ruler
 filetype plugin on
 se fileformats=unix
 se invpaste paste
+" colorscheme biogoo
 
 let NERDTreeMouseMode=2
 nnoremap <F5> :call ToggleNT()<CR>
